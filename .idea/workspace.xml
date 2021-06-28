@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d444e8bb-487a-46c9-b4c2-8ecae3e0f57d" name="Default Changelist" comment="add dist">
+      <change afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/build.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/check-versions.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/check-versions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/vue-loader.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/vue-loader.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/webpack.base.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/webpack.prod.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/webpack.prod.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/dev.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/dev.env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/prod.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/prod.env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/FtG0YVgQ6iginiLpf9W4_ShjiLfU.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/FtG0YVgQ6iginiLpf9W4_ShjiLfU.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/download.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/download.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/golangtc-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/golangtc-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icon/demo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icon/demo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icon/demo_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icon/demo_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icon/iconfont.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icon/iconfont.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icon/iconfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icon/iconfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icon/iconfont.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icon/iconfont.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icon/iconfont.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icon/iconfont.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icon/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icon/iconfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icon/iconfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icon/iconfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icon/iconfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icon/iconfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icon/iconfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icon/iconfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/loading-buffering.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/loading-buffering.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/phphub-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/phphub-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/ruby-china-20150529.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/ruby-china-20150529.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Article.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Article.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NavBar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavBar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Pagination.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Pagination.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PostList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SlideBar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SlideBar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UserInfo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UserInfo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/filters/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/filters/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/static/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1uQL0crnkwRKfAkASbVNuWmz8xJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d444e8bb-487a-46c9-b4c2-8ecae3e0f57d" name="Default Changelist" comment="" />
+      <created>1624592644027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624592644027</updated>
+      <workItem from="1624592645485" duration="1499000" />
+      <workItem from="1624843293939" duration="2538000" />
+      <workItem from="1624846043177" duration="41000" />
+      <workItem from="1624846085416" duration="287000" />
+    </task>
+    <task id="LOCAL-00001" summary="初始化项目">
+      <created>1624596800718</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624596800718</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add dist">
+      <created>1624843840779</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624843840780</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add dist">
+      <created>1624844196395</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1624844196395</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add dist">
+      <created>1624844252258</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1624844252258</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add dist">
+      <created>1624844466343</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624844466343</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add dist">
+      <created>1624844920764</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1624844920764</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add dist">
+      <created>1624844964386</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1624844964386</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Revert &quot;“这是源码啦”&quot;&#10;&#10;This reverts commit cfae5c03">
+      <created>1624845045680</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1624845045680</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add dist">
+      <created>1624845447476</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1624845447476</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add dist">
+      <created>1624845715988</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1624845715988</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化项目" />
+    <MESSAGE value="Revert &quot;“这是源码啦”&quot;&#10;&#10;This reverts commit cfae5c03" />
+    <MESSAGE value="add dist" />
+    <option name="LAST_COMMIT_MESSAGE" value="add dist" />
+  </component>
+</project>
